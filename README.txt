@@ -18,11 +18,19 @@ ES:
 
 - El juego tiene dos jugadores, juagando por turnos.
 - En cada turno, un jugador lanza un par de dados cuantas veces lo desee. Cada resultado se le agrega a su ROUND score. 
-- Pero si el jugador obtiene un 1, en cualquiera de los dados, todo su ROUND score se pierde. DespuÈs de eso, es el turno del siguiente jugador.
-- El jugador tiene la opciÛn de escoger ìHoldî, lo que causar· que su puntaje se le sume al GOLBAL score y que sea el turno del otro jugador.
-- El primer jugador que llegue a 100 puntos (o el n˙mero de puntos definidos) en el GLOBAL score, ganar· el juego.
+- Pero si el jugador obtiene un 1, en cualquiera de los dados, todo su ROUND score se pierde. Despu√©s de eso, es el turno del siguiente jugador.
+- El jugador tiene la opci√≥n de escoger ‚ÄúHold‚Äù, lo que causar√° que su puntaje se le sume al GOLBAL score y que sea el turno del otro jugador.
+- El primer jugador que llegue a 100 puntos (o el n√∫mero de puntos definidos) en el GLOBAL score, ganar√° el juego.
 
-## What i learned.
+### What i learned.
+
+- DOM Manipulation.
+
+#### How to use
+
+- Download the repository.
+- Unizip the files.
+- Run index.js
 
 
 
